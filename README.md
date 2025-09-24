@@ -34,5 +34,9 @@ Output Final
 Hasil akhir adalah tabel yang berisi seluruh Laptop, dengan atribut lengkap, termasuk semua atribut parent (produk, Elektronik) dan child (laptop), serta foto produk untuk PHP. Struktur ini memastikan semua atribut terlihat.
 
 ![Diagram](diagram/TP2.drawio.png)
+![CPP](cpp/dokumentasi/CPPTP2_1.png)
+![CPP](cpp/dokumentasi/CPPTP2_2.png)
+![CPP](cpp/dokumentasi/CPPTP2_3.png)
+![CPP](cpp/dokumentasi/CPPTP2_4.png)
 
 
