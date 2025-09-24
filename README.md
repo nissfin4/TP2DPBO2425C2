@@ -47,6 +47,13 @@ Java:
 ![java](java/dokumentasi/Screenshot1802.png)
 ![java](java/dokumentasi/Screenshot1803.png)
 
+python:
+![python](python/dokumentasi/Screenshot1797.png)
+![python](python/dokumentasi/Screenshot1798.png)
+![python](python/dokumentasi/Screenshot1799.png)
+
+PHP:
+![PHP](PHP/dokumentasi/Screenshot1805.png)
 
 
 
