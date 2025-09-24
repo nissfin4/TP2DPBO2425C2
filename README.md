@@ -53,7 +53,7 @@ python:
 ![python](python/dokumentasi/Screenshot1799.png)
 
 PHP:
-![PHP](PHP/dokumentasi/Screenshot1805.png)
+![PHP](php/dokumentasi/Screenshot1805.png)
 
 
 
