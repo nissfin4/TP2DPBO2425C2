@@ -33,10 +33,20 @@ Program menampilkan seluruh daftar Laptop di dalam tabel yang mencakup semua atr
 Output Final
 Hasil akhir adalah tabel yang berisi seluruh Laptop, dengan atribut lengkap, termasuk semua atribut parent (produk, Elektronik) dan child (laptop), serta foto produk untuk PHP. Struktur ini memastikan semua atribut terlihat.
 
+Diagram:
 ![Diagram](diagram/TP2.drawio.png)
+
+CPP:
 ![CPP](cpp/dokumentasi/CPPTP2_1.png)
 ![CPP](cpp/dokumentasi/CPPTP2_2.png)
 ![CPP](cpp/dokumentasi/CPPTP2_3.png)
 ![CPP](cpp/dokumentasi/CPPTP2_4.png)
+
+Java:
+![java](java/dokumentasi/Screenshot(1801).png)
+![java](java/dokumentasi/Screenshot(1802).png)
+![java](java/dokumentasi/Screenshot(1803).png)
+
+
 
 
