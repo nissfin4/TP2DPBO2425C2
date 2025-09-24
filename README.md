@@ -43,9 +43,9 @@ CPP:
 ![CPP](cpp/dokumentasi/CPPTP2_4.png)
 
 Java:
-![java](java/dokumentasi/Screenshot(1801).png)
-![java](java/dokumentasi/Screenshot(1802).png)
-![java](java/dokumentasi/Screenshot(1803).png)
+![java](java/dokumentasi/Screenshot1801.png)
+![java](java/dokumentasi/Screenshot1802.png)
+![java](java/dokumentasi/Screenshot1803.png)
 
 
 
